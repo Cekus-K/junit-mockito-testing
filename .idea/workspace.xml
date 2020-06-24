@@ -1,7 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19895202-466d-4785-bdc7-8054fcf24a66" name="Default Changelist" comment="" />
+    <list default="true" id="19895202-466d-4785-bdc7-8054fcf24a66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/account/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/account/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/cart/CartHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/cart/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/homework/CargoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/homework/UnitRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/homework/UnitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/account/AccountRepositoryStub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/account/AccountServiceStubTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/account/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/cart/CartServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/homework/UnitServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/order/OrderBackupExecutionOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/account/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/account/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/BeforeAfterExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/extensions/BeforeAfterExtension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/cart/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/IAExceptionIgnoreExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/extensions/IAExceptionIgnoreExtension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/Meal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/Meal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/OrderBackup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/order/OrderBackup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/order/OrderStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/homework/Cargo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/homework/Cargo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/homework/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cekus/testing/homework/Unit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/account/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/AddressTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/account/AddressTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/cart/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/MealTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/MealTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/OrderBackupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/order/OrderBackupTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/OrderStatusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/order/OrderStatusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/cekus/testing/order/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/cekus/testing/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/cekus/testing/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/cekus/testing/BeforeAfterExtension.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/cekus/testing/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/cekus/testing/IAExceptionIgnoreExtension.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/cekus/testing/Meal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/cekus/testing/Meal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/cekus/testing/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/cekus/testing/OrderBackup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/cekus/testing/OrderStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/cekus/testing/homework/Cargo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/cekus/testing/homework/Cargo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/cekus/testing/homework/Unit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/cekus/testing/homework/Unit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.AccountTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.AccountTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.AddressTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.AddressTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.CartTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.CartTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.MealTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.MealTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.OrderBackupTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.OrderBackupTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.OrderStatusTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.OrderStatusTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.OrderTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.cekus.testing.OrderTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.AccountTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.AccountTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.AddressTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.AddressTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.CartTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.CartTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.MealTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.MealTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.OrderBackupTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.OrderBackupTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.OrderStatusTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.OrderStatusTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.OrderTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/pl.cekus.testing.OrderTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/cekus/testing/AccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/cekus/testing/AddressTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/cekus/testing/CartTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/cekus/testing/MealTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/cekus/testing/MealTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/cekus/testing/OrderBackupTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/cekus/testing/OrderStatusTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/cekus/testing/OrderTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,10 +95,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
         <option value="JUnit5 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -38,6 +112,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1da64ytug9o0cXJW4di2Seczt2I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,6 +120,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -59,8 +135,15 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="pl.cekus.testing.homework" />
+      <recent name="pl.cekus.testing.cart" />
+      <recent name="pl.cekus.testing.account" />
       <recent name="pl.cekus.testing" />
       <recent name="pl.cekus.unittesting" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.cekus.testing.cart" />
+      <recent name="pl.cekus.testing.account" />
+      <recent name="pl.cekus.testing.order" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -69,7 +152,15 @@
       <recent name="pl.cekus.testing" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UnitTest">
+  <component name="RunManager" selected="JUnit.All in unit-testing-java">
+    <configuration name="All in unit-testing-java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="unit-testing-java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Fries tests" type="JUnit" factoryName="JUnit">
       <module name="unit-testing-java" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -81,7 +172,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UnitServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unit-testing-java" />
       <extension name="coverage">
         <pattern>
@@ -90,13 +181,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pl.cekus.testing.homework" />
-      <option name="MAIN_CLASS_NAME" value="pl.cekus.testing.homework.UnitTest" />
+      <option name="MAIN_CLASS_NAME" value="pl.cekus.testing.homework.UnitServiceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTest.coordinatesShouldBeIncreaseAfterMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UnitServiceTest.addedCargoShouldBeLoadedOnUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unit-testing-java" />
       <extension name="coverage">
         <pattern>
@@ -105,14 +196,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pl.cekus.testing.homework" />
-      <option name="MAIN_CLASS_NAME" value="pl.cekus.testing.homework.UnitTest" />
-      <option name="METHOD_NAME" value="coordinatesShouldBeIncreaseAfterMove" />
+      <option name="MAIN_CLASS_NAME" value="pl.cekus.testing.homework.UnitServiceTest" />
+      <option name="METHOD_NAME" value="addedCargoShouldBeLoadedOnUnit" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTest.unitShouldLooseFuelWhenMoving" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UnitServiceTest.shouldReturnUnitByCoordinates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unit-testing-java" />
       <extension name="coverage">
         <pattern>
@@ -121,14 +212,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pl.cekus.testing.homework" />
-      <option name="MAIN_CLASS_NAME" value="pl.cekus.testing.homework.UnitTest" />
-      <option name="METHOD_NAME" value="unitShouldLooseFuelWhenMoving" />
+      <option name="MAIN_CLASS_NAME" value="pl.cekus.testing.homework.UnitServiceTest" />
+      <option name="METHOD_NAME" value="shouldReturnUnitByCoordinates" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnitTest.unloadAllCargoShouldDecreaseCurrentCargoWeightToZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UnitServiceTest.shouldThrowExceptionWhenCouldNotFindCargoByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="unit-testing-java" />
       <extension name="coverage">
         <pattern>
@@ -137,24 +228,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pl.cekus.testing.homework" />
-      <option name="MAIN_CLASS_NAME" value="pl.cekus.testing.homework.UnitTest" />
-      <option name="METHOD_NAME" value="unloadAllCargoShouldDecreaseCurrentCargoWeightToZero" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnitTest.unloadCargoShouldDecreaseCurrentCargoWeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="unit-testing-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.cekus.testing.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.cekus.testing.homework" />
-      <option name="MAIN_CLASS_NAME" value="pl.cekus.testing.homework.UnitTest" />
-      <option name="METHOD_NAME" value="unloadCargoShouldDecreaseCurrentCargoWeight" />
+      <option name="MAIN_CLASS_NAME" value="pl.cekus.testing.homework.UnitServiceTest" />
+      <option name="METHOD_NAME" value="shouldThrowExceptionWhenCouldNotFindCargoByName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -162,19 +237,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.Fries tests" />
-      <item itemvalue="JUnit.UnitTest" />
-      <item itemvalue="JUnit.UnitTest.unloadCargoShouldDecreaseCurrentCargoWeight" />
-      <item itemvalue="JUnit.UnitTest.unloadAllCargoShouldDecreaseCurrentCargoWeightToZero" />
-      <item itemvalue="JUnit.UnitTest.unitShouldLooseFuelWhenMoving" />
-      <item itemvalue="JUnit.UnitTest.coordinatesShouldBeIncreaseAfterMove" />
+      <item itemvalue="JUnit.UnitServiceTest.shouldThrowExceptionWhenCouldNotFindCargoByName" />
+      <item itemvalue="JUnit.UnitServiceTest.addedCargoShouldBeLoadedOnUnit" />
+      <item itemvalue="JUnit.UnitServiceTest.shouldReturnUnitByCoordinates" />
+      <item itemvalue="JUnit.UnitServiceTest" />
+      <item itemvalue="JUnit.All in unit-testing-java" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UnitTest" />
-        <item itemvalue="JUnit.UnitTest.coordinatesShouldBeIncreaseAfterMove" />
-        <item itemvalue="JUnit.UnitTest.unitShouldLooseFuelWhenMoving" />
-        <item itemvalue="JUnit.UnitTest.unloadAllCargoShouldDecreaseCurrentCargoWeightToZero" />
-        <item itemvalue="JUnit.UnitTest.unloadCargoShouldDecreaseCurrentCargoWeight" />
+        <item itemvalue="JUnit.All in unit-testing-java" />
+        <item itemvalue="JUnit.UnitServiceTest" />
+        <item itemvalue="JUnit.UnitServiceTest.shouldReturnUnitByCoordinates" />
+        <item itemvalue="JUnit.UnitServiceTest.addedCargoShouldBeLoadedOnUnit" />
+        <item itemvalue="JUnit.UnitServiceTest.shouldThrowExceptionWhenCouldNotFindCargoByName" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +276,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592650669817</updated>
-      <workItem from="1592650677717" duration="29305000" />
+      <workItem from="1592650677717" duration="57187000" />
     </task>
     <servers />
   </component>
@@ -213,30 +288,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592737432171" />
-    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1592736609999">
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1592992843054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592736609999" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592756025769">
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592992843054" />
+    <state x="566" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592923237438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592756025769" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1592756025769">
+    <state x="566" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1592923237438" />
+    <state width="1493" height="176" key="GridCell.Tab.0.bottom" timestamp="1592998217218">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592756025769" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1592756025769">
+    <state width="1493" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592998217218" />
+    <state width="1493" height="176" key="GridCell.Tab.0.center" timestamp="1592998217218">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592756025769" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1592756025769">
+    <state width="1493" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592998217218" />
+    <state width="1493" height="176" key="GridCell.Tab.0.left" timestamp="1592998217218">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592756025769" />
-    <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592751539738">
+    <state width="1493" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592998217218" />
+    <state width="1493" height="176" key="GridCell.Tab.0.right" timestamp="1592998217218">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1592751539738" />
+    <state width="1493" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592998217218" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1592997103670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592997103670" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1592997103669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592997103669" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1592997103669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592997103669" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1592997103669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592997103669" />
+    <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592997880382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1592997880382" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592754977799">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

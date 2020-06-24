@@ -85,4 +85,12 @@ class Unit {
     int getLoad() {
         return this.currentCargoWeight;
     }
+
+    Coordinates getCoordinates() {
+        return this.coordinates;
+    }
+
+    List<Cargo> getCargo() {
+        return this.cargo;
+    }
 }

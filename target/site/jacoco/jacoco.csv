@@ -1,0 +1,13 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+unit-testing-java,pl.cekus.testing.homework,Coordinates,27,67,5,13,3,13,8,7,3,3
+unit-testing-java,pl.cekus.testing.homework,Cargo,42,17,9,1,5,6,6,3,1,3
+unit-testing-java,pl.cekus.testing.homework,Unit,6,129,1,5,1,33,1,12,0,10
+unit-testing-java,pl.cekus.testing,Order,0,47,0,2,0,17,0,8,0,7
+unit-testing-java,pl.cekus.testing,Account,3,48,1,3,1,19,1,9,0,8
+unit-testing-java,pl.cekus.testing,Meal,20,83,3,9,2,23,5,11,2,8
+unit-testing-java,pl.cekus.testing,Cart,0,56,0,2,0,15,0,6,0,5
+unit-testing-java,pl.cekus.testing,OrderBackup,0,47,0,2,0,13,0,6,0,5
+unit-testing-java,pl.cekus.testing,Address,0,9,0,0,0,4,0,1,0,1
+unit-testing-java,pl.cekus.testing,OrderStatus,0,34,0,0,0,2,0,1,0,1
+unit-testing-java,pl.cekus.testing,BeforeAfterExtension,0,11,0,0,0,5,0,3,0,3
+unit-testing-java,pl.cekus.testing,IAExceptionIgnoreExtension,2,16,1,1,1,5,1,3,0,3
