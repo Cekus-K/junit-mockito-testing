@@ -1,10 +1,9 @@
 package pl.cekus.testing.order;
 
-import pl.cekus.testing.Meal;
+import pl.cekus.testing.meal.Meal;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class Order {
 

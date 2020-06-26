@@ -6,7 +6,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import pl.cekus.testing.extensions.BeforeAfterExtension;
-import pl.cekus.testing.Meal;
+import pl.cekus.testing.meal.Meal;
 
 import java.util.Arrays;
 import java.util.List;

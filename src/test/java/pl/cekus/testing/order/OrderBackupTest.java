@@ -1,9 +1,7 @@
 package pl.cekus.testing.order;
 
 import org.junit.jupiter.api.*;
-import pl.cekus.testing.Meal;
-import pl.cekus.testing.order.Order;
-import pl.cekus.testing.order.OrderBackup;
+import pl.cekus.testing.meal.Meal;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

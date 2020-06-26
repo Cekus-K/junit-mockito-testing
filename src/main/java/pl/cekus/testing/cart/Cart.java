@@ -1,6 +1,6 @@
 package pl.cekus.testing.cart;
 
-import pl.cekus.testing.Meal;
+import pl.cekus.testing.meal.Meal;
 import pl.cekus.testing.order.Order;
 
 import java.util.ArrayList;
